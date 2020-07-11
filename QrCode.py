@@ -1,6 +1,3 @@
-from MyQR.myqr import run
-from os import getcwd
-
 
 def main(
     words: str,
@@ -11,6 +8,8 @@ def main(
     picture = None,
     colorized = True
 ):
+    from MyQR.myqr import run
+    from os import getcwd
     '''
     # 必选参数
     + words: 要表示的文字,不支持中文
