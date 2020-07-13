@@ -1,3 +1,5 @@
+# **QrCodeGui版本已制作完毕,可到天翼云下载安装程序**
+> https://cloud.189.cn/t/6zuA3yBRNZFr
 # QrCode
 ## 必选参数
 + words: 要表示的文字,不支持中文
