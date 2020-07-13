@@ -1,13 +1,4 @@
 # -*- coding: utf-8 -*-
-
-# Form implementation generated from reading ui file 'QrCode.ui'
-#
-# Created by: PyQt5 UI code generator 5.9.2
-#
-# WARNING! All changes made in this file will be lost!
-
-
-
 from sys import argv, exit
 from PyQt5.QtCore import QCoreApplication, QMetaObject, QRect, Qt, QRegExp
 from PyQt5.QtGui import QFont, QRegExpValidator
